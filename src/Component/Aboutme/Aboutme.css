@@ -1,0 +1,17 @@
+.aboutfont{
+    font-size: 18px;
+}
+
+.skilss{
+    padding: 7px 20px;
+    background-color: rgba(255, 255, 255, 0.034);
+    margin-right: 8px;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+
+@media only screen and (min-width: 600px) {
+    .slkillsw {
+      width: 75%;
+    }
+  }

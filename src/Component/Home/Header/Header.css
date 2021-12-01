@@ -1,0 +1,118 @@
+@media only screen and (min-width: 600px) {
+    .intro {
+      width: 75%;
+    }
+  }
+@media only screen and (max-width: 600px) {
+    .intro {
+      width: 90%;
+    }
+  }
+
+
+ .header-height{
+     height:100vh;
+ }
+
+  .resume{
+      text-decoration: none !important;
+      color: white;
+  }
+  .resume:hover{
+      text-decoration: none !important;
+      color: white;
+  }
+
+  .header-section h1 {
+      font-size: 50px;
+  }
+  .header-section {
+     min-height: 80vh !important;
+  }
+
+  
+  .btn-grad {background-image: linear-gradient(to right, #E55D87 0%, #5FC3E4  51%, #E55D87  100%)}
+  .line-sec {background-image: linear-gradient(to right, #E55D87 0%, #5FC3E4  51%) !important}
+  .line-sec {
+      width: 8% !important;
+      height: 6px !important;
+      border-radius: 15px;
+      margin-top: 5%;
+  }
+  .btn-grad {
+     /* margin: 10px; */
+     padding: 10px 45px;
+     text-align: center;
+     /* text-transform: uppercase; */
+     transition: 0.5s;
+     background-size: 200% auto;
+     color: white;            
+     /* box-shadow: 0 0 20px #eee; */
+     border-radius: 25px;
+     /* display: block; */
+     border: none;
+   }
+
+   .btn-grad:hover {
+     background-position: right center; /* change the direction of the change here */
+     color: #fff;
+     text-decoration: none;
+     border: none;
+
+   }
+
+   .details_card {
+       background-color: rgba(255, 255, 255, 0.055) !important;
+       border-radius: 15px;
+   }
+
+   @media only screen and (max-width: 600px) {
+    .live-btn {
+      width: 40% !important;
+    }
+  }
+
+  .btn-submit {background-image: linear-gradient(to right, #E55D87 0%, #5FC3E4  51%, #E55D87  100%)}
+   
+  .btn-submit {
+    /* margin: 10px; */
+    padding: 6px 30px;
+    text-align: center;
+    /* text-transform: uppercase; */
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    /* box-shadow: 0 0 20px #eee; */
+    /* border-radius: 25px; */
+    /* display: block; */
+    border: none;
+  }
+
+  .btn-submit:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+    border: none;
+
+  }
+
+  .nav-borderb{
+      border-bottom: 2px solid rgba(255, 255, 255, 0) !important;
+  }
+  .nav-borderb:hover{
+      border-bottom: 2px solid rgb(255, 255, 255) !important;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .nav-borderb {
+      width: 20% !important;
+      padding-left: 0px !important;
+    }
+  }
+
+  .tooglebar{
+      color: rgba(255, 255, 255, 0.589) !important;
+      background-color: rgba(255, 255, 255, 0.356) !important;
+  }
+
+  

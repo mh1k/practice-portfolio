@@ -1,0 +1,68 @@
+[
+    {
+        "id": "PRJ01",
+        "project_name": "Cycling Emporium | Bicycle Shop",
+        "img1": "https://i.ibb.co/8bBkzBG/empor1.png",
+        "img2": "https://i.ibb.co/mqsD00Z/empor2.png",
+        "img3": "https://i.ibb.co/xMBWYLT/empor3.png",
+        "project_summary": "This bicyles sell website as a online shop. This website user see different type of bikes and cycling products to buy. In this website if user at first come to home page, user see Trainding products and user see the navbar also saw explore products. In the Explore Products section user also see all products of website. After create account it take to redirect user in the orders page on dashboard. Order Page users saw all products for buy, User also can delete to any order from products orders card. This website we also create One Admin who able to manage all products and all users.User can review any products in rating section.",
+        "create": "",
+        "technology_used": "Reactjs, CSS, React Bootstrap, FontAwesome, Firebase, NodeJS, MongoDB, Heroku",
+        "live_Link": "https://cycling-emporium.web.app/"
+    },
+    {
+        "id": "PRJ02",
+        "project_name": "Holiday Express | Travel Planner",
+        "img1": "https://i.ibb.co/RN7YJCp/travel1.png",
+        "img2": "https://i.ibb.co/pK3S0MM/travel2.png",
+        "img3": "https://i.ibb.co/vYq7wqP/travel3.png",
+        "project_summary": "Holiday Express provide international tour packages. Here is the information of different tourist centers of Bangladesh India. If you want to book a package here, you have to login first. In order to book here, the user has to give various information to the user. To view the booking information, click on the My Booking option. And to cancel the booking you have to click on cancel booking. This is a mobile and desktop responsive site. The data served here is shown from the database",
+        "create": "",
+        "technology_used": "Reactjs, CSS, React Bootstrap, FontAwesome, Firebase, NodeJS, MongoDB, Heroku",
+        "live_Link": "https://my-holiday-express.web.app/"
+    },
+    {
+        "id": "PRJ03",
+        "project_name": "Medicare | Hospital Service",
+        "img1": "https://i.ibb.co/rMJGWWD/doctor1.png",
+        "img2": "https://i.ibb.co/0yfXJjr/doctor2.png",
+        "img3": "https://i.ibb.co/0KG4v8r/doctor3.png",
+        "project_summary": "This is a hospital service site. It provides what services are provided. Here are the details about the health package and services. Here users can get various services by logging in or registering Here is the information given by the doctors. this mobile and desktop responsive site.",
+        "create": "",
+        "technology_used": "Reactjs, CSS, React Bootstrap, FontAwesome, Firebase",
+        "live_Link": "https://new-medicare.web.app/"
+    },
+    {
+        "id": "PRJ04",
+        "project_name": "Tech World | Online Course",
+        "img1": "https://i.ibb.co/RBsNYT5/course1.png",
+        "img2": "https://i.ibb.co/HgdzyZ3/course2.png",
+        "img3": "https://i.ibb.co/hc4LSvv/course3.png",
+        "project_summary": "It is a technology based training organization. Our trainings include programming,networking, competitive programming, software development, etc. The ideas of what will be taught in the courses are given in brief form. And the introduction of the course instructor has been given. Responsive Site",
+        "create": "",
+        "technology_used": "Reactjs, CSS, React Bootstrap, FontAwesome, Netlify",
+        "live_Link": "https://tech-world-bd.netlify.app/"
+    },
+    {
+        "id": "PRJ05",
+        "project_name": "Hulk Store | Online Shop",
+        "img1": "https://i.ibb.co/stGPNvP/online1.png",
+        "img2": "https://i.ibb.co/0JtSmwb/online2.png",
+        "img3": "https://i.ibb.co/ZcD0x8j/online3.png",
+        "project_summary": "This is a online shopping cart. Our trainings include programming,networking, competitive programming, software development, etc. The ideas of what will be taught in the courses are given in brief form. And the introduction of the course instructor has been given. Responsive Site",
+        "create": "",
+        "technology_used": "HTML, CSS, js, Bootstrap5, Netlify",
+        "live_Link": "https://ph-hulk-store.netlify.app/"
+    },
+    {
+        "id": "PRJ06",
+        "project_name": "Honda CBR | Landing Page",
+        "img1": "https://i.ibb.co/gtfKyvv/bike1.png",
+        "img2": "https://i.ibb.co/4ZkXPyC/bike2.png",
+        "img3": "https://i.ibb.co/Zx40Khs/bkie3.png",
+        "project_summary": "This is honda cbr explore and review site. where user see different type of bike. customer reivew and another feature service here. Responsive Site",
+        "create": "",
+        "technology_used": "HTML, CSS, Bootstrap5, Netlify",
+        "live_Link": "https://phero-honda-cbr.netlify.app/"
+    }
+]
